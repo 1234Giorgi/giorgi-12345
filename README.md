@@ -7,3 +7,25 @@
 <td><a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"></a></td>
 </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+> *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
+
+- 🎓 **Education:** B.Sc. in CSE @ **East West University** *(Expected 2028)*
+- 🔬 **Major:** Intelligent Systems & Data Science
+- 🧪 **Focus Areas:** Software Quality Assurance, Cloud Security, AI-Driven Development
+- 🌍 **Location:** Dhaka, Bangladesh 🇧🇩
+- 🎯 **Mission:** Building bug-free, secure & intelligent software systems
+- 📊 **Academic Record:** HSC (GPA 5.00) | SSC (GPA 5.00) - Science Background
+- ⚡ **Fun Fact:** I debug code faster with AI than most people write it! 🚀
+
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
+    </td>
+  </tr>
+</table>
