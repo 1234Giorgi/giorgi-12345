@@ -9,10 +9,6 @@
 </table>
 
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="65%">
-
 > *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
 
 ### 👋 Hi, I'm Giorgi — Full-Stack Developer
@@ -42,10 +38,3 @@
 **Forms & Validation:** React Hook Form
 
 📫 **Contact:** giorgi.kavtaradze2000@mail.ru
-
-</td>
-<td valign="top" width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Tech Enthusiast Coding GIF" />
-</td>
-</tr>
-</table>
