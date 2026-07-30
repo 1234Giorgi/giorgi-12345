@@ -4,6 +4,38 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
+
+ <p>
+  <img src="javascript.png" width="45" height="45" alt="JavaScript" />
+  <img src="typescript.png" width="45" height="45" alt="TypeScript" />
+  <img src="py.png" width="38" height="39" alt="py" />
+  <img src="django-rest.png" width="38" height="39" alt="django" />
+  <img src="c.png" width="40" height="40" alt="C#" />
+  <img src="dotnetcore.png" width="40" height="40" alt="dotnetcore" />
+  <img src="angular.gif" width="40" height="40" alt="Angular" />
+  <img src="ngrx.svg" width="35" height="35" alt="Ngrx" />
+  <img src="reactjs.png" width="38" height="38" alt="React" />
+  <img src="nextjs.png" width="40" height="40" alt="Next.js" />
+  <img src="tailwind.png" width="40" height="40" alt="Tailwind CSS" />
+  <img src="shadcn2.png" width="40" height="40" alt="ShadCN/UI" />
+  <img src="redux.png" alt="redux" width="40" height="40"/>
+  <img src="icon.png" alt="zustand" width="43" height="43"/>
+  <img src="nuqs.svg" alt="nuqs" width="40" height="40"/>
+  <img src="three2.png" alt="three.js" width="40" height="40"/>
+  <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
+  <img src="motion.png" alt="motion" width="40" height="40"/>
+  <img src="gsap.jpg" alt="gsap" width="40" height="40"/>
+  <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
+  <img src="sanity.png" alt="sanity" width="39" height="39"/>
+  <img src="g.png" alt="Convex" width="40" height="38"/>
+  <img src="supabase.png" alt="supabase" width="40" height="40"/>
+  <img src="nodejs.png" alt="node.js" width="40" height="40"/>
+  <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
+  <img src="mongo.png" width="40" height="40" alt="MongoDB" />
+  <img src="neon.jpg" alt="neon" width="40" height="40"/>
+  <img src="docker.png" width="40" height="40" alt="Docker" />
+</p>
+
 ###  Hi, I'm Giorgi — Full-Stack Developer
 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
 
