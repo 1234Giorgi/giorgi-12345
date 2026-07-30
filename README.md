@@ -25,7 +25,8 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
 
-**Forms & Validation:** React Hook Form
+**Forms & Validation:** 
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 
 **Contact:** giorgi.kavtaradze2000@mail.ru
 
