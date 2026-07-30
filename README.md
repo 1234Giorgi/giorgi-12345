@@ -1,7 +1,6 @@
 # giorgi-12345
 
 ###  Hi, I'm Giorgi — Full-Stack Developer
-
 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
 
 **Frontend**
