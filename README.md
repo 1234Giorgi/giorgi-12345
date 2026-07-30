@@ -1,8 +1,8 @@
 # giorgi-12345
 
-### 👋 Hi, I'm Giorgi — Full-Stack Developer
+###  Hi, I'm Giorgi — Full-Stack Developer
 
-🔗 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
+All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
 
 **Frontend**
 
@@ -27,7 +27,7 @@
 
 **Forms & Validation:** React Hook Form
 
-📫 **Contact:** giorgi.kavtaradze2000@mail.ru
+**Contact:** giorgi.kavtaradze2000@mail.ru
 
 <table>
 <tr>
