@@ -54,7 +54,7 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Database**
+**Database** <br/>
 ![Convex](https://img.shields.io/badge/Convex-FF3366?style=flat-square&logo=convex&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
